@@ -1,0 +1,7 @@
+GET http://localhost:8080
+
+###
+GET http://localhost:8080?cep=02311160
+
+###
+GET http://localhost:8080/CEP
